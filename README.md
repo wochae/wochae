@@ -24,10 +24,3 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![wochae's GitHub stats](https://github-readme-stats.vercel.app/api?username=wochae&theme=radical&show_icons=true)  -->
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wochae)](https://solved.ac/wochae) -->
-
-
-# 자기소개 홈페이지
-
-HTML과 CSS를 처음으로 다루며 만든 홈페이지입니다.  
-자기소개를 주제로 저에 대한 소개들을 넣었습니다.
-https://wochae.github.io/wochae/
