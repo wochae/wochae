@@ -1,12 +1,7 @@
-- 👋 Hi, I’m gold_wochae
-- 👀 I’m interested in back-end programming
+- 👀 I’m interested in BACKEND Programming
 - 🌱 I’m currently learning 42cursus in 42Seoul
 - 📫 How to reach me [HERE](https://wochae.github.io/wochae/)
 
-
-
-<!-- [![github stats](https://github-readme-stats.vercel.app/api?username=wochae&show_icons=true&hide_border=true)](https://github.com/wochae) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wochae&layout=compact)](https://github.com/wochae) -->
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
@@ -22,5 +17,3 @@ You can click the Preview link to take a look at your changes.
 
 </br>
 
-<!-- ![wochae's GitHub stats](https://github-readme-stats.vercel.app/api?username=wochae&theme=radical&show_icons=true)  -->
-<!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wochae)](https://solved.ac/wochae) -->
