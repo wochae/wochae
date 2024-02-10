@@ -1,6 +1,5 @@
 - 👀 I’m interested in BACKEND Programming
 - 🌱 I’m currently learning 42cursus in 42Seoul
-- 📫 How to reach me [HERE](https://wochae.github.io/wochae/)
 
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
