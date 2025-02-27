@@ -3,7 +3,7 @@
 
 - 👀 Passionate about Software Engineering
 - 🌱 An alum of École 42, where I completed the Core Curriculum
-- 🏃‍♂️ Currently participating in the SKALA AI Service Developer Program at SK C&C
+- 🏃‍♂️ Currently participating in the SKALA AI Program at SK C&C
 
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a>
